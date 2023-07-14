@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akatau
-- 👀 I’m into theoretical computer science, math, and physics.
+- 👀 I’m into theoretical computer science, math, and neuroscience.
 - 🌱 I’m currently learning the basics of ML and CV.
 - 💞️ I’m looking to collaborate on any interesting project!
 <!-- - 📫 How to reach me: -->
